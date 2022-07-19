@@ -4,6 +4,5 @@ Construction of an information system supported by database technologies and foc
 
 ![](https://github.com/nelsonss/ProyectoVLIR/blob/main/imagen01-Informe.JPG)
 
-![](http://images.rapgenius.com/0e1ca854cbc30f33abc46108f2ba38f2.640x640x42.gif)
 
 
